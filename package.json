@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kiwiyan/start-local-server/issues"
   },
-  "homepage": "https://github.com/kiwiyan/start-local-server#readme"
+  "homepage": "https://github.com/kiwiyan/start-local-server#readme",
+  "bin": {
+    "ss": "bin/www"
+  }
 }
