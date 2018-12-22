@@ -1,0 +1,19 @@
+{
+  "name": "start-local-server",
+  "version": "1.0.0",
+  "description": "Run a http static server with nodejs locally.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiwiyan/start-local-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiwiyan/start-local-server/issues"
+  },
+  "homepage": "https://github.com/kiwiyan/start-local-server#readme"
+}
